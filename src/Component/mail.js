@@ -6,7 +6,7 @@ const ThanksPage = (props) => {
   const successIcon = require("../Component/Images/icon-success.svg");
   function previousPage(event) {
     event.preventDefault();
-    navigate("/signupform", {});
+    navigate("/Responsive-Newsletterform", {});
   }
   return (
     <div className="h-screen bg-DarkSlateGrey overflow-hidden max-sm:overflow-hidden max-sm:bg-white">
