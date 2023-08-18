@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Responsive-Newsletterform/static/css/main.9611ce4a.css",
-    "main.js": "/Responsive-Newsletterform/static/js/main.895ba8a5.js",
+    "main.js": "/Responsive-Newsletterform/static/js/main.f0c7d940.js",
     "static/js/787.7b021d47.chunk.js": "/Responsive-Newsletterform/static/js/787.7b021d47.chunk.js",
     "static/media/illustration-sign-up-mobile.svg": "/Responsive-Newsletterform/static/media/illustration-sign-up-mobile.3f6f1c6d3e48045cb31a0cae1ae11999.svg",
     "static/media/illustration-sign-up-desktop.svg": "/Responsive-Newsletterform/static/media/illustration-sign-up-desktop.ce2024babf0bc98a8862252535b544c9.svg",
@@ -9,11 +9,11 @@
     "static/media/icon-success.svg": "/Responsive-Newsletterform/static/media/icon-success.1ad016255f85fa877dc6bee8c9621535.svg",
     "static/media/icon-list.svg": "/Responsive-Newsletterform/static/media/icon-list.5e317c030bb9f11a33433484a2c590e1.svg",
     "main.9611ce4a.css.map": "/Responsive-Newsletterform/static/css/main.9611ce4a.css.map",
-    "main.895ba8a5.js.map": "/Responsive-Newsletterform/static/js/main.895ba8a5.js.map",
+    "main.f0c7d940.js.map": "/Responsive-Newsletterform/static/js/main.f0c7d940.js.map",
     "787.7b021d47.chunk.js.map": "/Responsive-Newsletterform/static/js/787.7b021d47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9611ce4a.css",
-    "static/js/main.895ba8a5.js"
+    "static/js/main.f0c7d940.js"
   ]
 }
