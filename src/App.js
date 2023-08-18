@@ -2,7 +2,7 @@ import React from "react";
 import img from "./Component/Images/illustration-sign-up-desktop.svg";
 import img1 from "./Component/Images/illustration-sign-up-mobile.svg";
 import tick from "./Component/Images/icon-list.svg";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 
 function App() {
@@ -25,7 +25,7 @@ function App() {
     }
   };
   return (
-    <div className="bg-DarkSlateGrey h-screen box-border overflow-hidden font-Roboto max-sm:overflow-visible max-sm:h-fit  flex flex-wrap  ">
+    <div className="bg-DarkSlateGrey h-screen box-border overflow-hidden font-Roboto max-sm:overflow-visible max-sm:h-fit  flex flex-wrap max-sm:bg-white  ">
       <div
         className="bg-white flex flex-row lg:w-[900px] h-fit mx-auto my-24 rounded-[20px] gap-5 max-sm:flex max-sm:flex-col-reverse
       max-sm:my-0"
